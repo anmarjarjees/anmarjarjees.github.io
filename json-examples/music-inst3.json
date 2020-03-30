@@ -35,7 +35,7 @@
         "name": "Ukulele3",
         "history": "new",
         "specs": {
-            "types": [
+            "type": [
                 "Pocket",
                 "Bass",
                 "Contrabass"

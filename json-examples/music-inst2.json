@@ -35,7 +35,7 @@
         "name": "Ukulele2",
         "history": "new",
         "specs": {
-            "types": [
+            "type": [
                 "Baritone",
                 "Bass",
                 "Contrabass"
