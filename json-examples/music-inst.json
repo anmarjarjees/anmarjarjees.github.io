@@ -2,7 +2,7 @@
     {
         "name": "Piano",
         "history": "very old",
-        "types": {
+        "specs": {
             "type": [
                 "Baby Grand",
                 "Parlor Grand",
@@ -18,7 +18,7 @@
     {
         "name": "Guitar",
         "history": "old",
-        " specs": {
+        "specs": {
             "type": [
                 "Acoustic",
                 "Eclectic",
@@ -33,8 +33,8 @@
     },
     {
         "name": "Ukulele",
-        " history ": "new",
-        " specs ": {
+        "history" : "new",
+        "specs": {
             "types": [
                 "Soprano",
                 "Concert",
