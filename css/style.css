@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {    
@@ -21,4 +22,18 @@ div.middle {
 
 h1, h2, h3, p {
     margin: 0.1em auto;
+}
+
+blockquote {
+    font-weight: bold;
+    margin: 2em auto;
+    padding: 10px;
+    width: 80%;
+    border-top: 2px inset rgb(177, 168, 168);
+    border-bottom: 2px inset rgb(177, 168, 168);
+}
+
+cite {
+    display: block;
+    margin-top: 5px;
 }
