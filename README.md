@@ -4,4 +4,6 @@ My Personal GitHub Website
 
 Quick Demo for my students
 
-Program: Full=Stack Web/SW Developer Program
+Program: Full-Stack Web/SW Developer Program
+
+[Live Demo](https://anmarjarjees.github.io/)
