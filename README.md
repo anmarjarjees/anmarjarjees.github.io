@@ -1,7 +1,7 @@
-# anmarjarjees.github.io
+# AnmarJarjees.github.io
 
 My Personal GitHub Website
 
 Quick Demo for my students
 
-Program: Fullstack Web/SW Developer Program
+Program: Full=Stack Web/SW Developer Program
